@@ -1,1 +1,2 @@
-# python-PyQT-APP
+# PyQT-APP
+csv file read and write app
